@@ -8,5 +8,6 @@ def reverse_number(number):
     print("original number: {original_number}")
     print(f"Reversed number: {reverse}")
 
+
 reverse = 21546
 reverse_number(reverse)
